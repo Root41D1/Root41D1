@@ -6,7 +6,7 @@ Cyber Security Engineer
 
 I love code !!!
 
-* 🌍  I'm based in Indonesia
+* 🌍  I'm based in Qatar
 * 🖥️  See my portfolio at [Aldiansyah](http://aldiansyah.netlify.app/)
 * ✉️  You can contact me at [aldiansyahmuhammad215@gmail.com](mailto:aldiansyahmuhammad215@gmail.com)
 * 🚀  I'm currently working on [Setara Solutions](http://setara.netlify.app/)
